@@ -17,4 +17,3 @@ function isVowel(singleChar) {
     } else return false;
 
 }
-console.log(isVowel("E"));

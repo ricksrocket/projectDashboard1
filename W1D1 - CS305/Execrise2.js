@@ -1,3 +1,5 @@
+/*eslint-disable*/
+
 const prompt=require("prompt-sync")();
 let age=0;
 while (age !==18){

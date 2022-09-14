@@ -1,3 +1,5 @@
+/*eslint-disable*/
+
 const prompt=require("prompt-sync")();
 let initAmt=prompt("What is the initial amount?: ");
 let annlInt=prompt("What is the annual interest in percent?: ");

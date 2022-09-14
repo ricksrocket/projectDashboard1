@@ -1,3 +1,5 @@
+/*eslint-disable*/
+
 const prompt=require("prompt-sync")();
 let str=prompt("Enter an integer: ");
 

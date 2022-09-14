@@ -1,3 +1,5 @@
+/*eslint-disable*/
+
 /*
 1. Write a function, that computes the area of a triangle using Heron's formula
     Area= sqrt{ s(s-a)(s-b)(s-c) }

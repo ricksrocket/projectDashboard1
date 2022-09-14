@@ -1,4 +1,5 @@
 "use strict";
+/*eslint-disable*/
 
 /**
  * prime numbers have only two factors; 1 and themselves

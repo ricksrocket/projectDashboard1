@@ -1,4 +1,6 @@
 "use strict"
+/*eslint-disable*/
+
 const testArray = [10, 20, 30, 40, 50];
 function findAverage(arr) {
     let sum = 0;

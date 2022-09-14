@@ -1,3 +1,5 @@
+/*eslint-disable*/
+
 let str;
 for (let k=1; k<6; k++){
     str="";

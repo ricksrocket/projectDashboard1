@@ -1,3 +1,5 @@
+/*eslint-disable*/
+
 const prompt = require("prompt-sync")();
 let commission;
 let salaried = prompt("Is the salesman salaried?: y/n  ");

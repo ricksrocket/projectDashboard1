@@ -1,5 +1,9 @@
 "use strict";
+/*eslint-disable*/
+
 const assert = require("assert");
+
+
 /**
  * 
  * @param {Number} num 
