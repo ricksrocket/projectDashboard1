@@ -30,4 +30,3 @@ function myMap(arr, userFunction)  {
         return result;
     
     };
-    
