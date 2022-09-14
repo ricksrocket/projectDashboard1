@@ -21,6 +21,7 @@ let library = [
  * Event handler to display library titles sorted alphabetically
  * @returns {undefined}
  */
+
 function showTitles() {
 
     /* put all titles into an array, then sort, then join with newline and insert in textarea innerHTML */
