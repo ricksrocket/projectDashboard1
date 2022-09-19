@@ -1,3 +1,6 @@
+"use strict";
+/*eslint-disable*/
+
 /* Many people get confused about converting between Fahrenheit and Celsius. 
 Converting one way (from Fahrenheit to Celsius has you subtract 32 before 
 multiplying by a factor. Converting to Fahrenheit from Celsius has you first

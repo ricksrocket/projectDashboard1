@@ -1,3 +1,7 @@
+"use strict";
+/*eslint-disable*/
+
+
 function sumDigits (num) {
    let str=num.toString();
    let prod=1;

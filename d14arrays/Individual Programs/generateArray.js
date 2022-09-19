@@ -29,6 +29,9 @@ function generateArray(rows, columns) {
 }
 
 
+let result = generateArray(3,4)
+console.log(result);
 
-console.log(generateArray(3, 3));
+console.log(result[0][1]);
+
 

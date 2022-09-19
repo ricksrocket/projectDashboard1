@@ -26,9 +26,10 @@ const array1 = {
 
 user1["name"] = "Pete";
 console.log(user1.name);
+console.log(user1.length);
 console.log(array1);
 
-delete user1.name;
+//delete user1.name;
 console.log(user1);
 
 array1[2] = "c";

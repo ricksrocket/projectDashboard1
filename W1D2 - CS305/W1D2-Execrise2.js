@@ -1,3 +1,6 @@
+"use strict";
+/*eslint-disable*/
+
 /*
 2. Make a defining table and function that will return the balance of a savings account 
 that compounds interest monthly. Parameters for the function will be:

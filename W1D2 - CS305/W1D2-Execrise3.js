@@ -1,3 +1,6 @@
+"use strict";
+/*eslint-disable*/
+
 /*
 3. Cost of House Down Payment
 Make a defining table and then write a function that calculates down payment for 

@@ -1,3 +1,6 @@
+"use strict";
+/*eslint-disable*/
+
 /*
 1. Write a function, computeSalesCommission that takes a Boolean argument for salaried and 
 number argument for salesAmount. It should return the sales commission based on following rules.
