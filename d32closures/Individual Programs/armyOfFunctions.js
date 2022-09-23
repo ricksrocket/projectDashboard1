@@ -26,7 +26,7 @@ let army = makeArmy();
 // all shooters show 10 instead of their numbers 0, 1, 2, 3...
 army[0](); // 10 from the shooter number 0
 army[1](); // 10 from the shooter number 1
-army[2](); // 10 ...and so on.
+army[9](); // 10 ...and so on.
 
 /*
 function makeArmy1() {
