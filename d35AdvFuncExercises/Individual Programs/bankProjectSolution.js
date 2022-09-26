@@ -52,3 +52,4 @@ function makeBank() {
 const bank = makeBank();
 console.log(bank.bankBalance());
 console.log(bank.transactionsDB in bank)
+console.log(makeBank());
