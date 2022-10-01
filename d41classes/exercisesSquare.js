@@ -23,6 +23,7 @@ class Square2 {
     constructor(side) {
         this.side = side;
     }
+   
     //area() { return this.side * this.side }
 }
 

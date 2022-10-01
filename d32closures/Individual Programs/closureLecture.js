@@ -20,7 +20,7 @@ function makeWorker() {
 
 
 
-let name = "Pete";
+ let name = "Pete";
 // create a function
 let work = makeWorker();
 // call it

@@ -5,8 +5,8 @@
 class Clock {
     constructor({ template }) {
         this.template = template
-        
-        render() {
+
+        render() => {
             let date = new Date();
     
             let hours = date.getHours();

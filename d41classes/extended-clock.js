@@ -33,16 +33,21 @@ class Clock {
 
     start() {
         this.render();
-        this.timer = setInterval(() => this.render(), 1000);
-        setTimeout(() => {
+        this.timer = setInterval(() => this.render(), 1000); setTimeout(() => {
             clearInterval(this.timer);
             console.log('stop');
         }, 4000);
-    };
-
+    }
 }
+
+
 let clock = new Clock({ template: 'h:m:s' });
 clock.start();
-//setInterval( function () {this.render()} , 1000);
 
+class ExtendedClock extends Clock {
+    constructor(name) {
+        super(name);
+
+
+    }
 

@@ -24,6 +24,7 @@ const teamStats = [player1, player2, player3, player4, player5];
 function findTotalTeamStats(teamStatisticsArr) {
 
     let playerStatsArr = [];
+    
     for (const player of teamStatisticsArr) {
         let maxPts = findPlayerMax(player);
         let minPts = findPlayerMin(player);

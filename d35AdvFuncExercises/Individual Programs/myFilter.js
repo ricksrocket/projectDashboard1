@@ -35,6 +35,8 @@ function myMap(arr, mapFn) {
 function squareNum(num) { return num * num }
 console.log(myMap(arr, squareNum));
 
+
+
 function myReduce(callBackFn, initVal ){
     let accum;
     initVal ? accum=initVal: accum=0;

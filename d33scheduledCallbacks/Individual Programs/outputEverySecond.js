@@ -16,7 +16,7 @@ function printNumbers(from, to) {
   
   // usage:
   printNumbers(5, 10);
-
+  /*
   let i = 0;
 
 setTimeout(() => console.log(i), 100); // 100000000
@@ -26,4 +26,4 @@ for(let j = 0; j < 100_000_000; j++) {
   i++;
 }
 
-
+*/
